@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @s-gumerov
-- 👀 I am interested in JavaScript, I like to create user interfaces
-- 🌱 I am currently studying at [Yandex Practicum](https://practicum.yandex.ru/)
+#### 👋 Hi, I'm @s-gumerov, I'm interested in JavaScript and I like to create user interfaces 
+##### 🌱 I am currently studying at [Yandex Practicum](https://practicum.yandex.ru/)
 
 <!---
 s-gumerov/s-gumerov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
