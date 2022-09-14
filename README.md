@@ -1,4 +1,4 @@
-#### 👋 Hi, I'm @s-gumerov, I'm interested in JavaScript and I like to create user interfaces 
+#### 👋 Hi, I'm interested in JavaScript and I like to create user interfaces 
 ##### 🌱 I am currently studying at [Yandex Practicum](https://practicum.yandex.ru/)
 
 <!---
