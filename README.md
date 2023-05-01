@@ -1,25 +1,61 @@
-<div id="header" align="left">
-	<h1>👋 Привет, Меня зовут Салават</h1>
-	<h3>Я фронтенд разработчик</h3>
-<ul>
-	<li> 🌱 Стремлюсь писать читабельный и производительный код</li>
-  <li> 🎯 Стремлюсь работать с настоящими боевыми проектами</li>
-	<li><a href="https://career.habr.com/s_gumerov">📄 Резюме</a></li>
-</ul>
+<div id="about" align="left">
+    <h1>👋 Привет, меня зовут Салават</h1>
+    <h3>👨‍💻 Я фронтенд разработчик</h3>
+    <ul>
+        <li> 🌱 Стремлюсь писать читабельный и производительный код</li>
+        <li> 🎯 Стремлюсь работать с настоящими боевыми проектами</li>
+    </ul>
 </div>
-<div id="" align="left">
-	<h3>Мой стэк:</h3>
-	<div align="center">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="css" width="40" height="40"/>&nbsp;
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="js" width="40" height="40"/>&nbsp;
- 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="ts" width="40" height="40"/>&nbsp;
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="react" width="40" height="40"/>&nbsp;
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="redux" width="40" height="40"/>&nbsp;
- 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="jest" width="40" height="40"/>&nbsp;
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" title="webpack" width="40" height="40"/>&nbsp;
-	</div>
 
+<div id="stack">
+    <h3>🛠️ Мой стэк:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"
+            alt="HTML" width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3"
+            alt="CSS" width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+            title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+            title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"
+            alt="React" width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux"
+            alt="Redux " width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest "
+            width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg"
+            title="Webpack" alt="Webpack " width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+            title="NodeJS" alt="NodeJS" width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"
+            **alt="Git" width="40" height="40" />
+    </div>
+</div>
+
+<div id="stats">
+    <h3>:fire: Моя статистика:</h3>
+
+[![GitHub
+    Streak](http://github-readme-streak-stats.herokuapp.com?user=s-gumerov&theme=dark&background=000000)](https://git.io/streak-stats)
+    
+[![Top
+    Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-gumerov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div id="contacts">
+    <h3>Мои:</h3>
+    <a href="https://t.me/s_gumerov">
+        <img src="https://web.telegram.org/z/favicon.svg" title="telegram" width="32" height="32" />
+    </a>&nbsp;
+    <a href="mailto:s.gumerov.work@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Yandex_Mail_icon.svg/512px-Yandex_Mail_icon.svg.png"
+            title="mail" width="32" height="32" />
+    </a>&nbsp;
+    <a href="https://career.habr.com/s_gumerov">
+        <img src="https://company.habr.com/images/favicon-32x32.png" title="habr" width="32" height="32" />
+    </a>
+</div>
 <!---
 s-gumerov/s-gumerov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
