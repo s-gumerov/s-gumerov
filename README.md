@@ -2,8 +2,8 @@
     <h1>👋 Привет, меня зовут Салават</h1>
     <h3>Я фронтенд разработчик 👨‍💻 </h3>
     <ul>
-        <li> 🌱 Стремлюсь писать читабельный и производительный код</li>
-        <li> 🎯 Стремлюсь работать с настоящими боевыми проектами</li>
+        <li> Стремлюсь писать читабельный и производительный код</li>
+        <li> Стремлюсь работать с настоящими боевыми проектами</li>
     </ul>
 </div>
 
@@ -35,14 +35,15 @@
 
 <div id="stats">
     <h3>:fire: Моя статистика:</h3>
-
-[![GitHub
-    Streak](http://github-readme-streak-stats.herokuapp.com?user=s-gumerov&theme=dark&background=000000)](https://git.io/streak-stats)
     
 [![Top
-    Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-gumerov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+    Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-gumerov&layout=compact&theme=onedark&locale=ru&disable_animations=false&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-gumerov&locale=ru&show_icons=true&theme=onedark&disable_animations=false&card_width=500)
+
+[![GitHub
+    Streak](http://github-readme-streak-stats.herokuapp.com?user=s-gumerov&theme=onedark&locale=ru&disable_animations=false&card_width=500)](https://git.io/streak-stats)
+</div>
 <div id="contacts">
     <h3>Мои:</h3>
     <a href="https://t.me/s_gumerov">
