@@ -45,7 +45,7 @@
     Streak](http://github-readme-streak-stats.herokuapp.com?user=s-gumerov&theme=onedark&locale=ru&disable_animations=false&card_width=500)](https://git.io/streak-stats)
 </div>
 <div id="contacts">
-    <h3>Мои:</h3>
+    <h3>Мои контакты:</h3>
     <a href="https://t.me/s_gumerov">
         <img src="https://web.telegram.org/z/favicon.svg" title="telegram" width="32" height="32" />
     </a>&nbsp;
