@@ -1,14 +1,13 @@
 <div id="about" align="left">
-    <h1>👋 Привет, меня зовут Салават</h1>
-    <h3>Я фронтенд разработчик 👨‍💻 </h3>
-    <ul>
-        <li> Стремлюсь писать читабельный и производительный код</li>
-        <li> Стремлюсь работать с настоящими боевыми проектами</li>
-    </ul>
+    <h1>👋 Hi, my name is Salavat</h1>
+    <h3>I'm a software developer 👨‍💻 </h3>
+    <p>
+ I develop web applications using modern technologies and always strive to improve my skills. In my work, I enjoy creating efficient and scalable solutions, as well as understanding complex tasks that require an unconventional approach.
+    </p>
 </div>
 
 <div id="stack">
-    <h3>🛠️ Мой стэк:</h3>
+    <h3>🛠️ Stack:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"
             alt="HTML" width="40" height="40" />&nbsp;
@@ -36,7 +35,7 @@
 </div>
 
 <div id="stats">
-    <h3>:fire: Моя статистика:</h3>
+    <h3>:fire: My stats:</h3>
     
 [![Top
     Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-gumerov&layout=compact&theme=onedark&locale=ru&disable_animations=false&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
@@ -47,7 +46,7 @@
     Streak](http://github-readme-streak-stats.herokuapp.com?user=s-gumerov&theme=onedark&locale=ru&disable_animations=false&card_width=500)](https://git.io/streak-stats)
 </div>
 <div id="contacts">
-    <h3>Мои контакты:</h3>
+    <h3>My contacts:</h3>
     <a href="https://t.me/s_gumerov">
         <img src="https://web.telegram.org/z/favicon.svg" title="telegram" width="32" height="32" />
     </a>&nbsp;
